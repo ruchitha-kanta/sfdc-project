@@ -6,4 +6,5 @@
 This is your new Page
 <!-- End Default Content REMOVE THIS -->
 <h1>happy now</h1>
+<h1>with my happiness</h1>
 </apex:page>
